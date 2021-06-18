@@ -1,0 +1,3 @@
+Sensor LM 35 
+Arduino NANO (ATmega 328p 320)
+OLED 
